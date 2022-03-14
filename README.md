@@ -2,10 +2,9 @@
 
 Selenium Web Automation project compatible with Google Chrome, where scenario tests are carried out on Trendyol e-commerce site.
 
-You can watch it here:
+You can watch it here: [Youtube](https://www.youtube.com/watch?v=RCcR1u9lliQ)
 
 ![test](https://github.com/yasemingurbuz/TrendyolSeleniumWebAutomation/blob/main/youtubepng.png)
-[test]:(https://www.youtube.com/watch?v=RCcR1u9lliQ)
 
 
 ## Prerequisites
